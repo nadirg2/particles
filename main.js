@@ -46,7 +46,7 @@ particlesJS(
         enable: true,
         distance: 200,
         color: "#feabff",
-        opacity: 0.5,
+        opacity: 0.3,
         width: 1,
       },
       move: {
